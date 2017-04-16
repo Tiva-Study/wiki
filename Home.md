@@ -32,6 +32,11 @@ Join our [[Mailing_List]] to get up to date information.
 
 * [Our professor's page](http://users.ece.utexas.edu/~valvano/edX/)
 
+* Our professor's books:
+
+    * [Introduction to Embedded Systems](https://www.amazon.com/Introduction-Embedded-Systems-Jonathan-Valvano/dp/1537105728)
+    * [Embedded Microcomputer Systems: Real Time Interfacing](https://books.google.co.uk/books/about/Embedded_Microcomputer_Systems.html?id=Q4lTAAAAMAAJ&redir_esc=y)
+
 * ([Download Keil IDE](http://users.ece.utexas.edu/~valvano/arm/download2.html): nope, wrong!) 
   [Download Keil IDE](http://edx-org-utaustinx.s3.amazonaws.com/UT601x/download.html)
 
