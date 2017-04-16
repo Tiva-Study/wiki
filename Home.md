@@ -28,5 +28,6 @@ Join our [[Mailing_List]] to get up to date information.
 
     * [RS](http://uk.rs-online.com/web/p/processor-microcontroller-development-kits/7950729/)
     * [Farnell](http://uk.farnell.com/texas-instruments/ek-tm4c123gxl/launchpad-tiva-c-evaluation-kit/dp/2314937)
+    * [UTAustinX's kit buying site](http://edx-org-utaustinx.s3.amazonaws.com/UT601x/worldwide.html)
 
 Also see [[More_Resources]].
