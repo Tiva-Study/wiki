@@ -30,4 +30,4 @@ Join our [[Mailing_List]] to get up to date information.
     * [Farnell](http://uk.farnell.com/texas-instruments/ek-tm4c123gxl/launchpad-tiva-c-evaluation-kit/dp/2314937)
     * [UTAustinX's kit buying site](http://edx-org-utaustinx.s3.amazonaws.com/UT601x/worldwide.html)
 
-Also see [[More_Resources]].
+Also see [the FAQ in Piazza](https://piazza.com/class/iy9ffyp5jcq4ch?cid=9), and our page [[More_Resources]].
