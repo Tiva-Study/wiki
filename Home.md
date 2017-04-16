@@ -30,4 +30,14 @@ Join our [[Mailing_List]] to get up to date information.
     * [Farnell](http://uk.farnell.com/texas-instruments/ek-tm4c123gxl/launchpad-tiva-c-evaluation-kit/dp/2314937)
     * [UTAustinX's kit buying site](http://edx-org-utaustinx.s3.amazonaws.com/UT601x/worldwide.html)
 
+* [Our professor's page](http://users.ece.utexas.edu/~valvano/edX/)
+
+* ([Download Keil IDE](http://users.ece.utexas.edu/~valvano/arm/download2.html): nope, wrong!) 
+  [Download Keil IDE](http://edx-org-utaustinx.s3.amazonaws.com/UT601x/download.html)
+
+    * mdk474.exe
+    * http://edx-org-utaustinx.s3.amazonaws.com/UT601x/TExaS_Install.exe
+    * spmc016a.zip from http://www.ti.com/tool/stellaris_icdi_drivers
+
 Also see [the FAQ in Piazza](https://piazza.com/class/iy9ffyp5jcq4ch?cid=9), and our page [[More_Resources]].
+
