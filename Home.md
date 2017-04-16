@@ -43,6 +43,7 @@ Join our [[Mailing_List]] to get up to date information.
     * mdk474.exe
     * http://edx-org-utaustinx.s3.amazonaws.com/UT601x/TExaS_Install.exe
     * spmc016a.zip from http://www.ti.com/tool/stellaris_icdi_drivers
+    * Then check the options on [Keil installation instructions](http://users.ece.utexas.edu/~valvano/arm/KeilInstall.html)
 
 Also see [the FAQ in Piazza](https://piazza.com/class/iy9ffyp5jcq4ch?cid=9), and our page [[More_Resources]].
 
